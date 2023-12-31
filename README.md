@@ -1,4 +1,4 @@
-# Superstore_Sales_Analysis_Using_Power_BI
+# Superstore Sales Analysis Using Power BI
 
 ![](superstore.jpg)
 
