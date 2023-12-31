@@ -1,5 +1,7 @@
 # Superstore_Sales_Analysis_Using_Power_BI
 
+![](superstore.jpg)
+
 ## Introduction
 
 This project is a deep dive into the sales and profit data of a Superstore, aimed at extracting actionable insights that could drive business decisions. With the retail landscape becoming increasingly competitive, Superstores need to understand what strategies work best for them. This project seeks to uncover which products, regions, categories, and customer segments are the most lucrative and which ones to approach with caution.
