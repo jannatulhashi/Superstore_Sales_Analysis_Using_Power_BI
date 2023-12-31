@@ -106,13 +106,13 @@ Once the analysis is complete, I share the findings by creating comprehensive re
 
 ![](Images/Data_model.PNG)
 
-**Here are my findings:**
+### **Here are my findings:**
 
 ![](Images/Sales_Overview.PNG)
 
-####**Analysis:**
+#### **Analysis:**
 
-The dashboard presents a comprehensive view of sales performance across various dimensions, including region, product sub-category, customer segment, and year. It provides both granular and high-level insights into the sales trends and performances of the Superstore over a five-year period.
+The dashboard presents a comprehensive view of sales performance across various dimensions, including region, product sub-category, customer segment, and year. It provides both granular and high-level insights into the sales trends and performances of the Superstore over five years (2014-2018).
 
 **Key Insights**
 
@@ -134,7 +134,7 @@ The dashboard presents a comprehensive view of sales performance across various 
 
 - The effectiveness of the discounting strategy should be evaluated to ensure that it contributes positively to overall sales volume without compromising profit margins.
   
-**4: Product Ctaegory Performance**
+**4: Product Category Performance**
 
 - Technology products are the highest-grossing category per customer segment, particularly among Corporate and Home Office segments. This suggests a strong market position in the technology sector.
   
@@ -164,7 +164,7 @@ The above dashboard provides a detailed visualization of profitability across va
 
 - **Top Products:** The list of top profitable products is dominated by high-ticket technology items, particularly copiers and printers. This aligns with the high profit seen in the Technology category and underscores the importance of these products to the overall profitability.
 
-In essence, the dashboard underscores the significance of the Technology category and the Consumer segment to the store's profit generation. It also highlights the regional strengths and product-specific contributions to the bottom line, providing a clear indication of where the business might focus its sales and marketing efforts for continued growth. Strategic decisions might include investing more in the successful regions and customer segments, as well as considering ways to bolster the profitability of lagging categories.
+In essence, the dashboard underscores the significance of the Technology category and the Consumer segment to the store's profit generation. It also highlights the regional strengths and product-specific contributions to the bottom line, providing a clear indication of where the business might focus its sales and marketing efforts for continued growth. Strategic decisions might include investing more in successful regions and customer segments, as well as considering ways to bolster the profitability of lagging categories.
 
 ### **Step 6. Act: Making Informed Decisions Based on the Analysis*
 
