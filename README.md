@@ -174,7 +174,7 @@ The final step is to act on the insights gained from the analysis. I use the fin
 
 Each step in this process is methodically executed to ensure that the analysis is thorough and the insights generated are actionable. By following this structured approach, I aim to deliver an in-depth understanding of the Superstore's operational dynamics, contributing to its growth and success in a competitive market.
 
-Based on the analyses of the Sales and Profit Overview dashboards, here are my conclusions and future recommendations for the success of the Superstore:
+***Based on the analyses of the Sales and Profit Overview dashboards, here are my conclusions and future recommendations for the success of the Superstore:***
 
 **1. Strengthen Performance in Key Regions**
 
