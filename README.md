@@ -102,6 +102,10 @@ In the analysis phase, I apply statistical methods and data analysis techniques 
 
 Once the analysis is complete, I share the findings by creating comprehensive reports and interactive dashboards using Power BI. These visualizations allow stakeholders to grasp complex data insights intuitively. I ensure that the reports are clear, concise, and tailored to the audience's level of expertise.
 
+### Table Relationships & Data Model View
+
+![](Images/Data_model.PNG)
+
 **Here are my findings:**
 
 ![](Images/Sales_Overview.PNG)
