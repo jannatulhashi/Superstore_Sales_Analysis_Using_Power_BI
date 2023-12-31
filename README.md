@@ -28,7 +28,7 @@ The primary objectives of this project are:
 
 In this initial phase, I identify the core questions that the analysis seeks to answer. The objectives here are to understand which products, customer segments, regions, and categories yield the highest sales and profits. I aim to uncover patterns that can inform strategic business decisions.
 
-**Business Objectives:**
+#### **Business Objectives:**
 
 - **Profit Optimization:** How can we enhance profit margins across various product lines, customer segments, and regions?
 
@@ -36,7 +36,7 @@ In this initial phase, I identify the core questions that the analysis seeks to 
 
 - **Strategic Recommendations:** Based on identified trends and patterns, what strategic recommendations can we make to target optimal products, regions, categories, and customer segments?
 
-**Deliverables:**
+#### **Deliverables:**
 
 - **Business Objectives Summary:** A document detailing the business objectives derived from the core questions, providing a roadmap for the analysis.
 
