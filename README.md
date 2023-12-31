@@ -48,7 +48,8 @@ In this initial phase, I identify the core questions that the analysis seeks to 
 
 ### **Step 2. Prepare: Gathering and Preparing the Data**
 
-During the preparation stage, I collect the necessary data that is publicly available in Kaggle.I ensure that the dataset includes all relevant information such as sales figures, profit margins, customer demographics, and product details. 
+During the preparation stage, I collect the necessary data that is publicly available in Kaggle. I ensure that the dataset includes all relevant information such as sales figures, profit margins, customer demographics, and product details. 
+
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 The dataset for this project includes a variety of sales and profit data for a Superstore. Here's a quick overview of the metadata:
