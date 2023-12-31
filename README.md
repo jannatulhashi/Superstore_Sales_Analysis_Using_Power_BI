@@ -142,7 +142,7 @@ The dashboard presents a comprehensive view of sales performance across various 
   
 - Furniture and Office Supplies have lower total sales by comparison, indicating potential areas for review and improvement.
   
-**6:** Top Products by Sales
+**6: Top Products by Sales**
 
 - The top products by sales include higher-value items such as technology and office machines, suggesting that high-ticket items are a significant sales driver.
   
@@ -168,7 +168,7 @@ The above dashboard provides a detailed visualization of profitability across va
 
 In essence, the dashboard underscores the significance of the Technology category and the Consumer segment to the store's profit generation. It also highlights the regional strengths and product-specific contributions to the bottom line, providing a clear indication of where the business might focus its sales and marketing efforts for continued growth. Strategic decisions might include investing more in successful regions and customer segments, as well as considering ways to bolster the profitability of lagging categories.
 
-### **Step 6. Act: Making Informed Decisions Based on the Analysis*
+### **Step 6. Act: Making Informed Decisions Based on the Analysis**
 
 The final step is to act on the insights gained from the analysis. I use the findings to make informed recommendations for business strategies. This may involve advising on which products to stock more, which regions to target or avoid, and how to optimize sales and marketing efforts. The goal is to enable the Superstore to act on data-driven insights for enhanced decision-making and strategic planning.
 
