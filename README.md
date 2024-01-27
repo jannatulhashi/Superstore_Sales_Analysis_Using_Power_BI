@@ -32,11 +32,11 @@ In this initial phase, I identify the core questions that the analysis seeks to 
 
 #### **Business Objectives:**
 
-- **Profit Optimization:** How can we enhance profit margins across various product lines, customer segments, and regions?
+- **Profit Optimization:** How can profit margins be enhanced across various product lines, customer segments, and regions?
 
 - **Trend Analysis:** What are the prevailing sales and profit trends, and how do they vary by product, region, category, and customer segment?
 
-- **Strategic Recommendations:** Based on identified trends and patterns, what strategic recommendations can we make to target optimal products, regions, categories, and customer segments?
+- **Strategic Recommendations:** Based on identified trends and patterns, what strategic recommendations can be made to target optimal products, regions, categories, and customer segments?
 
 #### **Deliverables:**
 
